@@ -1,0 +1,12 @@
+# robots.txt for ZU Digital Hub
+# Production domain: https://zudigitalhub.com
+
+User-agent: *
+Allow: /
+
+# Disallow crawling of internal error and system pages
+Disallow: /404.html
+
+# Sitemap index
+Sitemap: https://zudigitalhub.com/sitemap.xml
+
